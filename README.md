@@ -1,3 +1,3 @@
 # webtest1
 
-"yarn development" to rum
+"yarn development" to run
